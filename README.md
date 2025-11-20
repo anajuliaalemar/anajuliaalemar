@@ -94,8 +94,8 @@ Sou apaixonada em tecnologia, tenho mais afinidade na área de dados e FrontEnd 
 <p>
 
 <div align="center">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ynajooje&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynajooje&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anajuliaalemar&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliaalemar&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
   
 </p>
