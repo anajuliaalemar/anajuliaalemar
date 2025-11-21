@@ -9,7 +9,8 @@
 **`Dev iniciante`**
 
 Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Sesi Sobradinho, com o curso técnico em eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub.
-Estou inserida no mundo da tecnologia a 3 anos, participei do campeonato de robótica FLL em 2022 e cheguei até o campeonato nacional em 2023, caso queira saber mais acesse: [Portfólio](https://sites.google.com/view/portfoliohubanajulia?usp=sharing)
+Estou inserida no mundo da tecnologia a 3 anos, participei do campeonato de robótica FLL em 2022 e cheguei até o campeonato nacional em 2023. 
+Caso queira saber mais acesse: [Currículo]([https://sites.google.com/view/portfoliohubanajulia?usp=sharing](https://curriculo-ana-julia-alemar.netlify.app/))
 Sou apaixonada em tecnologia, tenho mais afinidade na área de dados e FrontEnd e estou melhorando minhas habilidades para me tornar uma programadora de excelência.
 
 ## 
