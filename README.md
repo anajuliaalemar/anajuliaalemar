@@ -8,15 +8,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-**De Brasília para o mundo do código!** 🚀
+* 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (Ceub).
+* 🏆 **Destaque:** Finalista Nacional de Robótica (FLL 2023) – Trajetória de ascensão do regional (2022) ao nacional.
+* 💡 **Competências:** Liderança, raciocínio lógico e trabalho sob pressão desenvolvidos em ambiente competitivo.
 
-Tenho 18 anos e respiro tecnologia há três anos. Minha paixão começou na prática: participei ativamente de competições de robótica, saindo do regional da **FLL em 2022** até alcançar o **campeonato nacional em 2023**. Essa experiência me ensinou sobre liderança, lógica e resolução de problemas sob pressão.
-
-Atualmente, estou no **2º Semestre de Análise e Desenvolvimento de Sistemas** e possuo formação técnica em Eletrotécnica.
-
-* 🎓 **Foco:** Front-End e Análise de Dados.
-* 🌱 **Aprendendo:** JavaScript, SQL, HTML, CSS e Python.
-* 💼 **Objetivo:** Buscando minha primeira oportunidade para aplicar minha paixão por tecnologia.
+<br>
 
 <div align="center">
   <a href="https://curriculo-ana-julia-alemar.netlify.app/" target="_blank">
