@@ -43,10 +43,11 @@
 
 <div align="center">
   <a href="https://github.com/anajuliaalemar">
-    <img height="179" src="https://github-readme-stats.vercel.app/api?username=anajuliaalemar&show_icons=true&theme=radical&include_all_commits=true"/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=anajuliaalemar&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
+  
   <a href="https://github.com/anajuliaalemar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliaalemar&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliaalemar&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
