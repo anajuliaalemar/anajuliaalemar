@@ -20,7 +20,7 @@
 <div align="center">
 
 <a href="https://curriculo-ana-julia-alemar.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Meu_Portfólio-FF007F?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Meu_Currículo-FF007F?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/anajuliaalemar" target="_blank">
