@@ -2,7 +2,7 @@
 
 # Ana Júlia Alemar
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=FF007F&center=true&vCenter=true&width=850&lines=Ana+J%C3%BAlia+Alemar;IT+Intern+at+BRB;Systems+Analysis+and+Development+Student;Focused+on+Technology+and+Innovation" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=FF007F&center=true&vCenter=true&width=950&lines=%24+initializing+profile...;%3E+IT+Intern+at+BRB;%3E+Systems+Analysis+and+Development+Student;%3E+Focused+on+Technology+and+Innovation;%24+status%3A+online" alt="Typing SVG">
 
 </div>
 
