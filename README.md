@@ -83,14 +83,6 @@
 
 ---
 
-## ✨ Atualmente
-
-- 📚 Aprendendo mais sobre desenvolvimento web e automação.
-- 🎯 Buscando evoluir em Python, JavaScript e banco de dados.
-- 🚀 Construindo projetos para fortalecer meu portfólio profissional.
-
----
-
 <div align="center">
 
 ### 💖 Obrigada por visitar meu perfil!
