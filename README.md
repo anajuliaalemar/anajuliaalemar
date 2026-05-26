@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ana Júlia Alemar
+# Ana Júlia Alemar de Souza
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4500&pause=300&color=FF007F&center=true&vCenter=true&width=950&lines=%24+initializing+profile...;%3E+IT+Intern+at+BRB;%3E+Systems+Analysis+and+Development+Student;%3E+Focused+on+Technology+and+Innovation;%24+status%3A+online" alt="Typing SVG">
 
@@ -8,11 +8,11 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no CEUB.  
 💼 Atualmente atuando como **Estagiária de TI no BRB**, com foco em **Jira e Confluence**.  
-🤖 Finalista Nacional da **FIRST LEGO League (FLL 2023)**, após classificação na etapa regional em 2022.  
+⚡ Finalista Nacional da **FIRST LEGO League (FLL 2023)**, após classificação na etapa regional em 2022.  
 🚀 Apaixonada por tecnologia, automação e desenvolvimento de soluções que geram impacto real.
 
 ---
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ GitHub Stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🐍 Contribuições
+## 👁️‍🗨️ Contribuições
 
 <div align="center">
 
@@ -85,6 +85,6 @@
 
 <div align="center">
 
-### 💖 Obrigada por visitar meu perfil!
+#### Thanks for visiting my profile ✨
 
 </div>
