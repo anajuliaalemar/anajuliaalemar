@@ -8,10 +8,9 @@
 
 ## 👩‍💻 Sobre Mim
 
-* 💼 **Atuação:** Estagiária de TI no BRB (Foco em Jira e Processos).
-* 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (Ceub).
-* 🏆 **Destaque:** Finalista Nacional de Robótica (FLL 2023) – Trajetória de ascensão do regional (2022) ao nacional.
-* 💡 **Competências:** Liderança, raciocínio lógico e trabalho sob pressão desenvolvidos em ambiente competitivo.
+* 💼 Estagiária de TI no BRB (Foco em Jira e Processos).
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas (Ceub).
+* 🏆 Finalista Nacional de Robótica (FLL 2023) – Classificada da etapa regional (2022) para a nacional.
 
 <br>
 
@@ -21,13 +20,10 @@
   </a>
 </div>
 
----
-
 ## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -35,8 +31,8 @@
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
 </div>
-
 <br>
 
 ## 📊 Estatísticas do GitHub
@@ -60,8 +56,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajuliaalemar/anajuliaalemar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
 
 ## 📫 Vamos conversar?
 
