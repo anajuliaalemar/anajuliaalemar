@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -39,7 +39,7 @@
 
 <br>
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/anajuliaalemar">
@@ -63,7 +63,7 @@
 
 ---
 
-### 📫 Vamos conversar?
+## 📫 Vamos conversar?
 
 <div align="center"> 
   <a href = "mailto:anajulia.alemar@gmail.com">
